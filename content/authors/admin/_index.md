@@ -76,6 +76,4 @@ I'm all about using tech to make the world a better place, especially when it co
 
 My research interests primarily revolve around Computer Vision, with a specific focus on the application of Artificial Intelligence in healthcare and medical diagnosis. I am also intrigued by the intersection of Natural Language Processing and Computer Vision in fields such as Medical Image Report Generation and Document Image Translation.
 
-In my free time, I enjoy playing basketball.
-
 {style="text-align: justify;"}
