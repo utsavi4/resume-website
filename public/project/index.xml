@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | Utsavi Visaria</title>
+    <link>https://example.com/project/</link>
+      <atom:link href="https://example.com/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 27 Apr 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu2a85108251978b88dc4bba31b6758658_287450_512x512_fill_lanczos_center_3.png</url>
+      <title>Projects</title>
+      <link>https://example.com/project/</link>
+    </image>
+    
+    <item>
+      <title>DiagnoSys.AI</title>
+      <link>https://example.com/project/diagnosys/</link>
+      <pubDate>Wed, 27 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/project/diagnosys/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Image Captioning</title>
+      <link>https://example.com/project/image_captioning/</link>
+      <pubDate>Thu, 25 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/project/image_captioning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Green Route</title>
+      <link>https://example.com/project/green_route/</link>
+      <pubDate>Tue, 27 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/project/green_route/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hateful Speech on Twitter</title>
+      <link>https://example.com/project/hate_speech/</link>
+      <pubDate>Fri, 27 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/project/hate_speech/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

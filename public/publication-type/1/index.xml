@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>1 | Utsavi Visaria</title>
+    <link>https://example.com/publication-type/1/</link>
+      <atom:link href="https://example.com/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
+    <description>1</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 03 Dec 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu2a85108251978b88dc4bba31b6758658_287450_512x512_fill_lanczos_center_3.png</url>
+      <title>1</title>
+      <link>https://example.com/publication-type/1/</link>
+    </image>
+    
+    <item>
+      <title>Hybrid CNN-LSTM network to detect Dysarthria using Mel-Frequency Cepstral Coefficients</title>
+      <link>https://example.com/publication/dysarthria/</link>
+      <pubDate>Sat, 03 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/dysarthria/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Attention U-Net for Semantic Segmentation of Dental Panoramic X-ray images</title>
+      <link>https://example.com/publication/dental/</link>
+      <pubDate>Fri, 02 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/dental/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MRI image denoising using U-Net and Image Processing Techniques</title>
+      <link>https://example.com/publication/denoising/</link>
+      <pubDate>Tue, 15 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/denoising/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
