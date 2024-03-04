@@ -18,7 +18,7 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'Dishant Padalia'
+    description: 'Utsavi Visaria'
     twitter: ''
   analytics:
     google_analytics: ''
@@ -45,7 +45,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Dishant Padalia. This work is licensed under {license}'
+    notice: '© {year} Utsavi Visaria. This work is licensed under {license}'
     license:
       enable: true
       allow_derivatives: false
