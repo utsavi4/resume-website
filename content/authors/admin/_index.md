@@ -51,13 +51,13 @@ social:
   #   label: Follow me on Twitter
   #   display:
   #     header: true
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
+  # - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
   - icon: github
     icon_pack: fab
     link: https://github.com/utsavi4
   - icon: linkedin
     icon_pack: fab
-    link: www.linkedin.com/in/utsavi-visaria-2a53a2197
+    link: https://www.linkedin.com/in/utsavi-visaria-2a53a2197
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
@@ -72,7 +72,7 @@ email: 'visariautsavi04@gmail.com'
 highlight_name: true
 ---
 
-I am a graduate student pursuing an MS in Computer Science at the University of Massachusetts (UMass) Amherst. Previously, I've interned at the <a href="https://www.iitb.ac.in/">Indian Institute of Technology (IIT) Bombay</a>, working under the guidance of Prof. <a href="https://www.cse.iitb.ac.in/~ganesh/">Ganesh Ramakrishnan</a> and Dr. <a href="https://www.linkedin.com/in/venkatapathy-subramanian/">Venkatapathy Subramanian</a>. During my undergraduate studies at <a href="https://kjsce.somaiya.edu/en">K.J. Somaiya College of Engineering (KJSCE)</a>, I worked as a Research Assistant for Prof. <a href="https://www.linkedin.com/in/ninadmehendale/">Ninad Mehendale</a>. Additionally, I collaborated with Prof. <a href="https://www.linkedin.com/in/dr-deepak-sharma/">Deepak Sharma</a> (Vice Principal of KJSCE) on two research projects.
+I'm all about using tech to make the world a better place, especially when it comes to artificial intelligence and machine learning. I have dedicated myself to exploring how technology can enhance healthcare and improve lives. My ultimate goal is to contribute to innovative solutions that address real-world challenges and make a meaningful impact. Outside of all the serious stuff, I'm a huge music buff and a basketball fanatic. In summary, I am driven by a desire to innovate, contribute to societal well-being, and continuously learn and grow.
 
 My research interests primarily revolve around Computer Vision, with a specific focus on the application of Artificial Intelligence in healthcare and medical diagnosis. I am also intrigued by the intersection of Natural Language Processing and Computer Vision in fields such as Medical Image Report Generation and Document Image Translation.
 

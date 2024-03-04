@@ -75,16 +75,16 @@ sections:
         - title: Research Analyst Intern
           company: Eiliant Advisors LLP 
           company_url: ''
-          company_logo: org-eiliant
+          company_logo: eiliant_logo
           location: India
           date_start: '2022-06-01'
           date_end: '2022-11-30'
           description: |2-
               * Demonstrated expertise in ServiceNow's suite, conducted a comprehensive comparative analysis, and led engaging presentations on strategic Snowflake implementation.  
         - title: Machine Learning Intern
-          company: K.J.Somaiya College of Engineering – Machine Learning and IoT Lab
+          company: K. J. Somaiya College of Engineering – Machine Learning & IoT Lab
           company_url: ''
-          company_logo: org-vasundharaa
+          company_logo: org-kjsce
           location: India
           date_start: '2022-01-01'
           date_end: '2022-05-30'
@@ -260,7 +260,7 @@ sections:
         - icon: linkedin
           icon_pack: fab
           name: utsavi-visaria
-          link: 'www.linkedin.com/in/utsavi-visaria-2a53a2197'
+          link: 'https://www.linkedin.com/in/utsavi-visaria-2a53a2197'
         # - icon: skype
         #   icon_pack: fab
         #   name: Skype Me
